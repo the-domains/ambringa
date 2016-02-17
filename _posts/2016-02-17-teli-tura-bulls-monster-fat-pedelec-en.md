@@ -6,24 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ebike túra
-datePublished: '2016-02-17T09:44:13.816Z'
-dateModified: '2016-02-17T09:43:37.321Z'
+datePublished: '2016-02-17T09:54:43.767Z'
+dateModified: '2016-02-17T09:54:20.725Z'
 title: Téli túra Bulls Monster fat-pedelec-en
 author: []
+sourcePath: _posts/2016-02-17-teli-tura-bulls-monster-fat-pedelec-en.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-teli-tura-bulls-monster-fat-pedelec-en.md
-published: true
 url: teli-tura-bulls-monster-fat-pedelec-en/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ec80aae-362f-47e2-84ff-79bac817ec14.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13e10ac-ee75-4076-8ef0-4874bb5eddf4.jpg)
 
 Szoktál bringázni télen?
 
@@ -36,6 +35,7 @@ A Bulls Monster fat-pedelec ugyanis olyan laza könnyedséggel gurul minden neh�
 Mióta átéltem, megváltoztam. Most már várom télen a havat, várom, hogy befagyjon az Omszki-tó, várom a szép fehér erdei tájat! Ezek mindegyike csábít a kerekezésre!
 
 Kérdezhetnéd persze, hogy na de mi a helyzet a hideggel?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13e10ac-ee75-4076-8ef0-4874bb5eddf4.jpg)
 
 Szerencsére a mai kerékpáros ruhák között már vannak a hideggel tökéletesen megbírkózók. Ha pedig nagyon jegesbe fordul az idő, akkor jöhet a síruha! Nekem nagyon bevált. Múlt vasárnap csupán a kedvenc Biotex hosszúujjas aláöltözetem volt a síruhám alatt, és egyáltalán nem fáztam!
 
