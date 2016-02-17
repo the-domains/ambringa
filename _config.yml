@@ -2,6 +2,7 @@ name: ambringa
 favicon: null
 layout_spectrum: 0.01744
 typography_spectrum: 0.2035415640566498
+title: www.ambringa.hu
 cta:
   domain: null
   bucket: null
